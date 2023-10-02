@@ -12,4 +12,4 @@ Bluetooth communication was realized.
 ![PXL_20221020_191912009](https://github.com/Merliss/Self-Balancing-Robot/assets/62032793/db38b0a6-fe5e-4fc5-aefc-e4ab55d1cbc2)
 ![model](https://github.com/Merliss/Self-Balancing-Robot/assets/62032793/85a9d9bb-94fb-4c23-830d-7b867e03db90)
 
-For the project there was created a pcb schema but not produced becasue lack of time
+For the project there was created a pcb schema but not produced becasue lack of time. PCB was made in KiCad.
